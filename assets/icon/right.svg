@@ -1,0 +1,27 @@
+<svg width="35" height="36" viewBox="0 0 35 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-8863 -440)">
+<g id="Group">
+<g id="Ellipse" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(8865 441)" fill="#FFFFFF"/>
+</g>
+<g id="Arrow">
+<use xlink:href="#path1_stroke" transform="matrix(1 -2.5283e-16 2.37275e-16 1 8874.3 457)" fill="#B19261"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="8863" y="440" width="35" height="36" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="1"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 31 16C 31 24.8366 24.0604 32 15.5 32C 6.93959 32 0 24.8366 0 16C 0 7.16344 6.93959 0 15.5 0C 24.0604 0 31 7.16344 31 16Z"/>
+<path id="path1_stroke" d="M 12.7536 0.353553C 12.9488 0.158291 12.9488 -0.158291 12.7536 -0.353553L 9.57157 -3.53553C 9.37631 -3.7308 9.05973 -3.7308 8.86446 -3.53553C 8.6692 -3.34027 8.6692 -3.02369 8.86446 -2.82843L 11.6929 0L 8.86446 2.82843C 8.6692 3.02369 8.6692 3.34027 8.86446 3.53553C 9.05973 3.7308 9.37631 3.7308 9.57157 3.53553L 12.7536 0.353553ZM 0 0.5L 12.4 0.5L 12.4 -0.5L 0 -0.5L 0 0.5Z"/>
+</defs>
+</svg>

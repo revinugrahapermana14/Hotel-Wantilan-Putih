@@ -1,0 +1,31 @@
+<svg width="40" height="40" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Close-2</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-8184 -953)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 8184 953L 8224 953L 8224 993L 8184 993L 8184 953Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="Close-2" clip-path="url(#clip-0)">
+<g id="Ellipse">
+<use xlink:href="#path0_fill" transform="translate(8184 953)" fill="#FFFFFF"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(8184 953)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(8184 953)" fill="#B19261"/>
+</g>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path2_fill" transform="matrix(0.707107 -0.707107 0.707107 0.707107 8196 966)" fill="#B19261"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path2_fill" transform="matrix(0.707107 0.707107 0.707107 -0.707107 8196 979.435)" fill="#B19261"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 40 20C 40 31.0457 31.0457 40 20 40C 8.95431 40 0 31.0457 0 20C 0 8.95431 8.95431 0 20 0C 31.0457 0 40 8.95431 40 20Z"/>
+<path id="path1_stroke_2x" d="M 39 20C 39 30.4934 30.4934 39 20 39L 20 41C 31.598 41 41 31.598 41 20L 39 20ZM 20 39C 9.50659 39 1 30.4934 1 20L -1 20C -1 31.598 8.40202 41 20 41L 20 39ZM 1 20C 1 9.50659 9.50659 1 20 1L 20 -1C 8.40202 -1 -1 8.40202 -1 20L 1 20ZM 20 1C 30.4934 1 39 9.50659 39 20L 41 20C 41 8.40202 31.598 -1 20 -1L 20 1Z"/>
+<path id="path2_fill" d="M 0 1C 0 0.447715 0.447715 0 1 0L 1 0C 1.55228 0 2 0.447715 2 1L 2 20C 2 20.5523 1.55228 21 1 21L 1 21C 0.447715 21 0 20.5523 0 20L 0 1Z"/>
+</defs>
+</svg>

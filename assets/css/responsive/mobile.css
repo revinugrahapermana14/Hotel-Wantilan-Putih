@@ -1,0 +1,734 @@
+@media screen and (max-width: 480px){
+
+    /*--width--*/
+    .width826{
+        max-width: 826px !important;
+        margin: 0 auto;
+    }
+
+    .width824{
+        max-width: 824px !important;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    .width1037{
+        max-width: 1037px !important;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    .width1036{
+        max-width: 1036px !important;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    footer.footer_{
+        width: 100%;
+        margin: 0;
+    }
+
+    /*--width--*/
+
+    span.add-on-reserve > img.io{
+        right: 9px !important;
+    }
+
+    section.content-contact{
+        margin-top: 9em;
+    }
+    
+    .img-slider > img{
+        filter: brightness(76%);
+    }
+
+    .hire-ord {
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+
+    .pding-top-hg {
+        padding-top: 0px !important;
+    }
+
+    .wrap_info_ > .col-md-5{
+        min-height: 220px !important;
+    }
+
+    .destination-pre{
+        padding-top: 0px;
+    }
+
+    #homeslide{
+        max-height: 251px;
+    }
+
+    div.box-selection > a.reservationBox {
+        min-height: 56px;
+    }
+
+    div.box-selection {
+        padding-top: 3px !important;
+        min-height: 53px;
+    }
+
+    span.input-group-addon > img{
+        top: 8px;
+    }
+
+    .box-selection > select,
+    .box-selection > .input-group > input[type=text]{
+        font-size: 14px;
+    }
+
+    .descript_up{
+       padding-top: 25px; 
+    }
+
+    .head-content {
+        padding-bottom: 20px;
+    }
+
+    .paddingMobile{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .navbar{
+        max-width: 480px !important;
+        margin: 0;
+    }
+
+    .upper-desc{
+        padding-top: 0px;
+    }
+
+    .pad-mobile{
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+
+    .center-fix{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .customize-width-1{
+        width: initial;
+    }
+
+    .discover-name{
+        width: auto !important;
+    }
+
+    .costumize-1280-top{
+        width: initial;
+    }
+
+    .container-content{
+        overflow: initial;
+    }
+
+    ._not-mobile{
+        overflow: hidden !important;
+    }
+
+    .display-none-mobile{
+        display: none;
+    }
+
+    .box-selection{
+        padding-top: 20px !important;
+        min-height: 76px;
+    }
+
+    .box-selection > label.first-label{
+        padding-left: 23px !important;
+    }
+
+    .box-selection > select{
+        background-position: 20.5em !important;
+        padding-left: 23px !important;
+    }
+
+    .box-selection > label{
+        padding-left: 23px !important;
+    }
+
+    .box-selection > .input-group > input[type=text]{
+        padding-left: 23px !important;
+    }
+
+    .box-selection > a.reservationBox{
+        width: 100%;
+        min-height: 56px;
+    }
+
+    .discoverd{
+        padding-top: 48px;
+        text-align: center;
+        margin-bottom: 48px;
+    }
+
+    .discoverd > img{
+        margin: 0 auto;
+    }
+
+    .discover-name{
+        padding: 0px;
+        padding-bottom: 30px;
+        padding-top: 25px;
+        margin-bottom: 0px;
+    }
+
+    .discover-name > .col-md-7 > .border_img{
+        padding: 10px;
+    }
+
+    .discover-name > .col-md-7 > .border_img > img{
+        height: 250px; 
+    }
+
+    .menu_footer ._list{
+        float: none;
+        margin: 0px;
+        margin-bottom: 11px;
+        width: 100%;
+        padding-top: 22px;
+    }
+
+    .menu_footer ._list li{
+        position: relative;
+        top: -3px;
+        left: 69px;
+    }
+
+    .menu_footer ._list li a{
+        transition: none;
+    }
+
+    .copyRight{
+        margin: 0px;
+        padding-top: 4px;
+        font-size: 11px;
+        color: #ccc7c7;
+    }
+
+    .brand_ > a > img{
+        margin: 0px auto;
+        position: relative;
+        left: -12px;
+        height: 35px;
+        object-fit: cover;
+    }
+
+    .copyRight > p{
+        color: #ccc7c7;
+        margin: 0px;
+    }
+
+    .footer_plus{
+        padding-top: 0px;
+    }
+
+    .footer_{
+        margin-top: 0px !important;
+        padding-bottom: 0px !important;
+    }
+
+    .brand_{
+        margin-bottom: 7px;
+    }
+
+    .hide-dekstop{
+        display: initial;
+    }
+
+    .reserve-mobile{
+        margin-top: 25px;
+        margin-bottom: 25px;
+        padding: 0px;
+        height: 48px;
+        overflow: hidden;
+        display: block;
+        /* background: rebeccapurple; */
+    }
+
+    .up-head{
+        padding-top: 50px;
+    }
+
+    .reserve-mobile > a{
+        margin: 0px auto;
+    }
+
+    .container-facilities{
+        padding: 0px;
+        overflow: initial;
+    }
+
+    #facislider>.bx-wrapper{
+        padding: 0px;
+        overflow: initial;
+        height: 33em;
+    }
+
+    .arrownext, .arrowprev{
+        overflow: initial;
+        width: 44px;
+        position: relative;
+        top: -187px;
+    }
+
+    .arrowprev{
+        transform: translateX(4px);
+        opacity: 0.5;
+    }
+
+    .arrownext{
+        transform: translateX(-4px);
+        opacity: 0.5;
+    }
+
+    .facidesc{
+        padding: 0px;
+    }
+
+    .img-slider img{
+        height: 271px;
+        object-fit: cover;
+        width: 100%;
+    }
+
+    .slider-slide-text{
+        overflow: initial;
+    }
+
+    .slider-img > .container-facilities > .col-md-12:first-child{
+        padding: 0px;
+    }
+
+    .container-center{
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .gallery-content{
+        margin-bottom: 0px;
+    }
+
+    .descript_up-vb{
+        padding-top: 0px;
+    }
+
+    .main-menu-descript-villa > .discover-name{
+        padding-top: 22px;
+        height: 51em;
+        margin-bottom: 70px;
+    }
+
+    .discoverd-2{
+        padding-left: 6px;
+        padding-top: 35px;
+    }
+
+    .ord-detail > a{
+        width: 91% !important;
+    }
+
+    .blog-masonry > .col-xs-12{
+        padding: 0px;
+    }
+
+    .hiring > .col-md-4{
+        margin-bottom: 20px;
+    }
+
+    .hire-ord > .btn-little{
+        width: 100% !important;
+    }
+
+    .block-form > .hire-ord > a{
+        width: 100% !important;
+    }
+
+    .gallery-center{
+        padding-left: 0px;
+    }
+
+    .lr-content{
+        margin-bottom: 25px !important;
+    }
+
+    .blocking-reservation{
+        margin-left: 0px;
+    }
+
+    .homebxslide{
+        height: 200px;
+    }
+
+    #homeslide>.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto{
+        margin-left: 0px !important;
+        bottom: -22px !important;
+    }
+
+    .slidecaption{
+        display: none;
+        left: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .title-caption{
+        margin-left: 0px;
+    }
+
+    .slidecaption > p {
+        text-align: center;
+    }
+
+    .block-form{
+        margin-bottom: 13px;
+        min-height: 55px;
+        padding-top: 5px;
+    }
+
+    .head-contact > img:nth-child(1),
+    .head-contact > img:nth-child(4){
+        margin: 0px auto;
+    }
+
+    .head-contact > img:nth-child(1){
+        margin-bottom: 6px;
+    }
+
+    .mtm_address-1 > p:nth-child(2), .mtm_address-2 > p:nth-child(2), .mtm_address-3 > p:nth-child(2){
+        width: 100%;
+    }
+
+    .head-contact > p:nth-child(2),
+    .head-contact > p:nth-child(3),
+    .head-contact > p:nth-child(5){
+        text-align: center;
+    }
+
+    .mtm_address-1 p,
+    .mtm_address-2 p,
+    .mtm_address-3 p{
+        text-align: center;
+    }
+
+    .reserve_in > a {
+        margin: 0px auto;
+        width: 100% !important;
+    }
+
+    .head-contact{
+        margin-bottom: 7px;
+    }
+
+    .maps-mobile{
+        overflow: hidden;
+        margin-bottom: 30px;
+    }
+
+    .box-img-map{
+        padding: 5px;
+    }
+
+    .box-img-map > img{
+        min-height: 0px !important;
+    }
+
+    .about-img{
+        padding: 5px;
+        margin-bottom: 20px;
+    }
+
+    .desc-about{
+        text-align: center;
+        margin-bottom: 22px;
+    }
+
+    .desc-about p:first-child{
+        margin-bottom: 10px;
+    }
+
+    .left-contact{
+        margin-bottom: 30px !important;
+    }
+
+    .ancient-custom{
+        margin-top: 0px;
+    }
+
+    .ancient-custom > img{
+        margin: 0px auto !important;
+    }
+
+    .ancient-custom > div.more-1 > p,
+    .ancient-custom > div.more-2 > p{
+        text-align: center;
+    }
+
+    .ancient-custom > .descript_bottom > p{
+        text-align: center;
+    }
+
+    .up-about > img:first-child{
+        margin:0px auto;
+        margin-bottom: 10px;
+    }
+
+    .up-about > p:nth-child(2){
+        font-weight: bold;
+        margin-bottom: 5px;
+        text-transform: uppercase;
+    }
+
+    .up-about > img:nth-child(3){
+        margin:0px auto;
+        margin-bottom: 15px;
+    }
+
+    .up-about > p:nth-child(4){
+        line-height: 24px;
+    }
+
+    .mobile-marg{
+        margin-bottom: -4em;
+    }
+
+    #homeslide>.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto{
+        padding-right: 0px;
+    }
+
+    .bx-wrapper .bx-pager{
+        text-align: center !important;
+    }
+
+    .navbar-header{
+        min-height: 67px;
+    }
+
+    .img-humb > img{
+        min-height: 230px !important;
+    }
+
+
+    .content-destination > .desti_destination > p{
+        min-height: 169px !important;
+    }
+
+    .wrap_info_ > .col-md-6{
+        min-height: 311px;
+    }
+
+    div.box-selection > select{
+        background-position: 26.1em 10px !important;
+    }
+
+    span.input-group-addon > img {
+        right: 26px !important;
+    }
+}
+
+@media screen and (min-width: 360px) and (max-width: 366px){
+    .navbar{
+        max-width: 360px !important;
+        margin: 0;
+    }
+}
+
+@media screen and (min-width: 412px) and (max-width: 413px){
+    .navbar{
+        max-width: 412px !important;
+        margin: 0;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 325px){
+    .navbar{
+        max-width: 320px !important;
+        margin: 0;
+    }
+}
+
+@media screen and (min-width: 411px) and (max-width: 412px){
+    .navbar{
+        max-width: 411px !important;
+        margin: 0;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 376px){
+    .navbar{
+        max-width: 375px !important;
+        margin: 0;
+    }
+}
+
+@media screen and (min-width: 414px) and (max-width: 415px){
+    .navbar{
+        max-width: 414px !important;
+        margin: 0;
+    }
+}
+
+
+@media screen and (max-width: 355px){
+
+    .navbar{
+        max-width: 355px !important;
+        margin: 0;
+    }
+
+    .display-none-mobile{
+        display: none;
+    }
+
+    div.menu_footer ._list li{
+        position: relative;
+        top: -3.5px;
+        left: 22px;
+    }
+
+    .menu_footer ._list li a{
+        font-size: 11px;
+    }
+
+    .copyRight p{
+        padding-top: 5px;
+        font-size: 10px;
+        color: #ccc7c7;
+        margin: 0px;
+    }
+
+    .menu_footer ._list{
+        margin: 0px;
+        min-height: 42px;
+        overflow: hidden;
+    }
+
+    .footer_plus{
+        padding-top: 19px;
+    }
+
+    .brand_ > a > img{
+        margin: 0px auto;
+        position: relative;
+        left: -12px;
+        height: 32px;
+        object-fit: cover;
+    }
+
+    .box-selection > select{
+        background-position: 15.5em !important;
+    }
+
+    #facislider>.bx-wrapper{
+        height: 34em;
+    }
+
+}
+
+
+
+
+
+/*---------*/
+
+@media screen and (min-width: 375px) and (max-width: 380px){
+    .box-selection > select{
+        background-position: 329px;
+    }
+
+    .menu_footer ._list li{
+        top: 2px;
+        left: 48px;
+    }
+
+    div.box-selection > select{
+        background-position: 23.5em !important;
+    }
+}
+
+
+@media screen and (min-width: 360px) and (max-width: 370px){
+    .menu_footer ._list{
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .menu_footer ._list li{
+        position: relative;
+        top: -3.5px;
+        left: 38px;
+        margin-right: 4px;
+    }
+
+    .copyRight p {
+        margin: 0px;
+        padding-top: 0px;
+        font-size: 11px;
+    }
+
+    .copyRight{
+        margin: 0px;
+    }
+
+    .brand_ > a > img{
+        margin: 0px auto;
+        position: relative;
+        left: -12px;
+        height: 32px;
+        object-fit: cover;
+    }
+
+    .copyRight p{
+        padding-top: 5px;
+        font-size: 11px;
+        color: #ccc7c7;
+        margin: 0px;
+    }
+
+    .menu_footer ._list{
+        margin: 0px;
+        min-height: 42px;
+        overflow: hidden;
+    }
+
+    .footer_plus{
+        padding-top: 19px;
+    }
+
+    div.box-selection > select {
+        background-position: 22.5em 10px !important;
+    }
+
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 330px){
+    .menu_footer ._list{
+        width: 100%;
+        padding-left: 10%;
+    }
+
+    .menu_footer ._list li{
+        margin-right: 9px !important;
+    }
+
+    div.box-selection > select {
+        background-position: 19.5em 10px !important;
+    }
+
+
+    .navbar{
+        max-width: 320px !important;
+        margin: 0;
+    }
+
+}

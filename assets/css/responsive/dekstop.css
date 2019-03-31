@@ -1,0 +1,154 @@
+/*BASE VIEW*/
+/*1280 * 800*/
+@media only screen and (max-width: 1280px) and (max-width: 1300px){
+   ul.middle_ {
+    width: 64em !important;
+}
+
+.box-selection > select{
+    background-position: 13.3em 10px;
+}
+
+.descript_up > .more-1 > p{
+    margin-bottom: 0px;
+    margin: 0px;
+}
+
+.descript_up > .more-2 > p{
+    margin-top: 0px;
+    margin-bottom: 26px;
+}
+
+.box-selection > label{
+    transform: translateY(5px);
+}
+
+.box-selection{
+    padding-top: 13px;
+}
+
+span.input-group-addon > img{
+    top: 10px;
+}
+
+.customize-width-1{
+    width: 69%;
+}
+
+.discoverd > p.title-discover{
+    margin-bottom: 4px;
+}
+
+.discoverd > p.celebrate{
+    padding-bottom: 10px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.discoverd > p.description_celbrate{
+    padding-top: 25px;
+    width: 100%;
+}
+
+.costumize-1280-top{
+    width: 73%;
+}
+
+.container-contant{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.ancient-custom > img:nth-child(4) {
+    margin-bottom: 26px !important;
+}
+
+.about-img{
+    padding: 17px;
+}
+
+#facislider>.bx-wrapper{
+    max-height: 545px;
+}
+
+.box-img-map{
+    padding: 15px;
+}
+
+.box-img-map > img{
+    height: 332px !important;
+}
+
+.mtm_address-1 > p:nth-child(2), .mtm_address-2 > p:nth-child(2), .mtm_address-3 > p:nth-child(2){
+    width: 33%;
+}
+
+
+.content-destination > .desti_destination > p{
+    width: 82%;
+    min-height: 245px;
+}
+
+.wrap_info_ > .col-md-6 > img{
+    height: 404px;
+}
+
+.wrap_info_ > .col-md-6{
+   min-height: 404px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*end base view*/
+
+@media screen and (max-width: 1350px) and (max-width: 1360px){
+
+    ul.middle_{
+        width: 64em;
+    }
+
+}
+
+@media screen and (max-width: 1250px){
+   ul.middle_ {
+    width: 64em;
+}
+}
+
+@media screen and (max-width: 1200px){
+   ul.middle_ {
+    width: 60em;
+}
+}
+
+@media screen and (max-width: 1150px){
+   ul.middle_ {
+    width: 55em;
+}
+}
+
+@media screen and (max-width: 1090px){
+   ul.middle_ {
+    width: 53em;
+}
+}
+
+@media screen and (max-width: 1050px){
+   ul.middle_ {
+    width: 49em;
+}
+
+}

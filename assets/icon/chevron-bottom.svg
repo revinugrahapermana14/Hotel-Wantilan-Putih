@@ -1,0 +1,18 @@
+<svg width="8" height="5" viewBox="0 0 8 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>down-chevron (1)</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(322 -148)">
+<g id="down-chevron (1)">
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-322 148)" fill="#B19261"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 7.05666 4.673e-08L 4 3.05666L 0.943344 4.673e-08L 0 0.943313L 4 4.94331L 8 0.943313L 7.05666 4.673e-08Z"/>
+</defs>
+</svg>
